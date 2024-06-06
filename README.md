@@ -47,5 +47,6 @@ The recognized text from the speech recognition function or text input by the us
 
 For a detailed demonstration of the Gradio interface, watch the video below:
 
-[![Watch the video](file:///E:/telechargements/Untitled%20design%20(1).mp4)]
+
+https://github.com/tesnimmmeee/Tunisian-Dialect-Toxicity-Detection-using-Fine_Tuned_Bert/assets/129046748/0abdf88b-6244-4f63-9e28-d7141af8f4f9
 
