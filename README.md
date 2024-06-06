@@ -44,3 +44,8 @@ The recognized text from the speech recognition function or text input by the us
 
 - [Gradio Documentation](https://www.gradio.app/docs/)
 - [BERT Model](https://www.techtarget.com/searchenterpriseai/definition/BERT-language-model)
+
+For a detailed demonstration of the Gradio interface, watch the video below:
+
+[![Watch the video](file:///E:/telechargements/Untitled%20design%20(1).mp4)]
+
